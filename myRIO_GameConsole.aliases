@@ -1,0 +1,9 @@
+[JansCoolesMyRIO]
+JansCoolesMyRIO = "172.22.11.2"
+
+[My Computer]
+My Computer = "172.22.11.1"
+
+[RT myRIO Target]
+RT myRIO Target = "172.22.11.2"
+
