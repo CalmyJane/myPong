@@ -14,15 +14,17 @@
 	<Item Name="Games" Type="Folder">
 		<Item Name="DisplayText.lvclass" Type="LVClass" URL="../DisplayText/DisplayText.lvclass"/>
 		<Item Name="Snake.lvclass" Type="LVClass" URL="../Snake/Snake.lvclass"/>
+		<Item Name="SnakeGame.lvclass" Type="LVClass" URL="../SnakeGame/SnakeGame.lvclass"/>
+		<Item Name="Tetris.lvclass" Type="LVClass" URL="../Tetris/Tetris.lvclass"/>
 	</Item>
 	<Item Name="Menus" Type="Folder">
 		<Item Name="MainMenu.lvclass" Type="LVClass" URL="../MainMenu/MainMenu.lvclass"/>
 		<Item Name="Menu.lvclass" Type="LVClass" URL="../Menu/Menu.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
-		<Item Name="Buffer.lvclass" Type="LVClass" URL="../Buffer/Buffer.lvclass"/>
 		<Item Name="FPGA_Interface.ctl" Type="VI" URL="../FPGA_Interface.ctl"/>
 		<Item Name="RT_Sprite.lvclass" Type="LVClass" URL="../RT_Sprite/RT_Sprite.lvclass"/>
+		<Item Name="Tilebuffer.lvclass" Type="LVClass" URL="../Buffer/Tilebuffer.lvclass"/>
 	</Item>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
 	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>

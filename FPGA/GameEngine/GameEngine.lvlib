@@ -8,5 +8,6 @@
 
 </Property>
 	<Item Name="DrawBGtiles.vi" Type="VI" URL="../DrawBGtiles.vi"/>
+	<Item Name="FadeColor.vi" Type="VI" URL="../FadeColor.vi"/>
 	<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 </Library>
