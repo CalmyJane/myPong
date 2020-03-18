@@ -12,6 +12,10 @@
 		<Item Name="TextField.lvclass" Type="LVClass" URL="../TextField/TextField.lvclass"/>
 	</Item>
 	<Item Name="Games" Type="Folder">
+		<Item Name="Pong" Type="Folder">
+			<Item Name="Pong.lvclass" Type="LVClass" URL="../Pong/Pong.lvclass"/>
+			<Item Name="PongPanel.lvclass" Type="LVClass" URL="../PongPanel/PongPanel.lvclass"/>
+		</Item>
 		<Item Name="DisplayText.lvclass" Type="LVClass" URL="../DisplayText/DisplayText.lvclass"/>
 		<Item Name="Snake.lvclass" Type="LVClass" URL="../Snake/Snake.lvclass"/>
 		<Item Name="SnakeGame.lvclass" Type="LVClass" URL="../SnakeGame/SnakeGame.lvclass"/>
@@ -23,10 +27,10 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="RT_Sprite.lvclass" Type="LVClass" URL="../RT_Sprite/RT_Sprite.lvclass"/>
+		<Item Name="SpriteHandler.lvclass" Type="LVClass" URL="../SpriteHandler/SpriteHandler.lvclass"/>
 		<Item Name="Tilebuffer.lvclass" Type="LVClass" URL="../Buffer/Tilebuffer.lvclass"/>
 	</Item>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
 	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
-	<Item Name="SimpleMain.vi" Type="VI" URL="../SimpleMain.vi"/>
 </Library>
