@@ -12,6 +12,9 @@
 		<Item Name="InitSpriteBuffer.vi" Type="VI" URL="../InitSpriteBuffer.vi"/>
 		<Item Name="InitTileFromFile.vi" Type="VI" URL="../InitTileFromFile.vi"/>
 	</Item>
+	<Item Name="Sounds" Type="Folder">
+		<Item Name="SoundLoader.vi" Type="VI" URL="../SoundLoader.vi"/>
+	</Item>
 	<Item Name="Tools" Type="Folder">
 		<Item Name="Picture to 2-D Color Array.vi" Type="VI" URL="../Picture to 2-D Color Array.vi"/>
 		<Item Name="PixmapToFXP.vi" Type="VI" URL="../../RT/RT_Game/PixmapToFXP.vi"/>
