@@ -8,6 +8,7 @@
 
 </Property>
 	<Item Name="FPGA_Buffer_Initializers" Type="Folder">
+		<Item Name="InitFrameBuffer.vi" Type="VI" URL="../InitFrameBuffer.vi"/>
 		<Item Name="InitSpriteBuffer.vi" Type="VI" URL="../InitSpriteBuffer.vi"/>
 		<Item Name="InitTileFromFile.vi" Type="VI" URL="../InitTileFromFile.vi"/>
 	</Item>
