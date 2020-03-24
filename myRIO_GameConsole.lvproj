@@ -1,6 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Project Type="Project" LVVersion="19008000">
-	<Property Name="varPersistentID:{67E07B5F-E9C2-4E82-A86F-5AD1374D92B0}" Type="Ref">/RT myRIO Target/Variables.lvlib/DebugError</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="server.app.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="server.control.propertiesEnabled" Type="Bool">true</Property>
@@ -2384,11 +2383,7 @@ AddOutputFilter chunkFilter
 				</Item>
 			</Item>
 		</Item>
-		<Item Name="Variables.lvlib" Type="Library" URL="../RT/Variables.lvlib"/>
-		<Item Name="Globals.vi" Type="VI" URL="../RT/RT_Game/Globals.vi"/>
-		<Item Name="Velocity.ctl" Type="VI" URL="../RT/RT_Game/PongBall/Velocity.ctl"/>
 		<Item Name="Benchmark_FGV.vi" Type="VI" URL="../../../../Documents/LabVIEW Data/Probes/Benchmark_FGV.vi"/>
-		<Item Name="Square.ctl" Type="VI" URL="../RT/RT_Game/Square.ctl"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -2433,7 +2428,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3F439FE7-A6F7-4AAB-8F5D-D7F83FC1F406}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">24</Property>
+				<Property Name="Bld_version.build" Type="Int">25</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
