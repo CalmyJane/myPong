@@ -18,6 +18,7 @@
 		<Item Name="SnakeSwitch.lvclass" Type="LVClass" URL="../PongSwitch/SnakeSwitch.lvclass"/>
 		<Item Name="TextField.lvclass" Type="LVClass" URL="../TextField/TextField.lvclass"/>
 		<Item Name="Cursor.lvclass" Type="LVClass" URL="../Cursor/Cursor.lvclass"/>
+		<Item Name="Snake.lvclass" Type="LVClass" URL="../Snake/Snake.lvclass"/>
 	</Item>
 	<Item Name="Games" Type="Folder">
 		<Item Name="Pong.lvclass" Type="LVClass" URL="../Pong/Pong.lvclass"/>
