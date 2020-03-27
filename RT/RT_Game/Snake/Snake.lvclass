@@ -325,7 +325,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
 	</Item>
 	<Item Name="DrawScore.vi" Type="VI" URL="../DrawScore.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'*!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$"!=!!?!!!=$6*58U&gt;B&lt;75O&lt;(:M;7)-2W&amp;N:3ZM&gt;G.M98.T!!!)5'^O:S"P&gt;81!!$"!=!!?!!!&gt;$6*58U&gt;B&lt;75O&lt;(:M;7).5WZB;W5O&lt;(:D&lt;'&amp;T=Q!*5WZB;W5A&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!,E"Q!"Y!!"Q.5F2@2W&amp;N:3ZM&gt;GRJ9AR(97VF,GRW9WRB=X-!!!&gt;1&lt;WZH)'FO!$"!=!!?!!!&gt;$6*58U&gt;B&lt;75O&lt;(:M;7).5WZB;W5O&lt;(:D&lt;'&amp;T=Q!)5WZB;W5A;7Y!!')!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!A!!?!!!$1A!!!!!!!!.#A!!$1M!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!I!!!!1!!!/!!!,!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
@@ -334,7 +334,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1115685376</Property>
 	</Item>
 	<Item Name="Eat.vi" Type="VI" URL="../Eat.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&lt;!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$B!=!!?!!!B$6*58U&gt;B&lt;75O&lt;(:M;7)25WZB;W6(97VF,GRW9WRB=X-!$6.O97NF2W&amp;N:3"P&gt;81!-%"Q!"Y!!"U.5F2@2W&amp;N:3ZM&gt;GRJ9AV4&lt;G&amp;L:3ZM&gt;G.M98.T!!F4&lt;G&amp;L:3"P&gt;81!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Y1(!!(A!!)1V36&amp;^(97VF,GRW&lt;'FC%6.O97NF2W&amp;N:3ZM&gt;G.M98.T!!R4&lt;G&amp;L:5&gt;B&lt;75A;7Y!!$"!=!!?!!!&gt;$6*58U&gt;B&lt;75O&lt;(:M;7).5WZB;W5O&lt;(:D&lt;'&amp;T=Q!)5WZB;W5A;7Y!!')!]!!-!!-!"!!&amp;!!9!"!!%!!1!"!!(!!1!#!!*!Q!!?!!!$1A!!!!!!!!.#A!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!!I!!!!3!!!/!!!,!!Q!!!!!!!!!!!!!!1!+!!!!!!</Property>
