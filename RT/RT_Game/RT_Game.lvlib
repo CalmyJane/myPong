@@ -19,11 +19,13 @@
 		<Item Name="TextField.lvclass" Type="LVClass" URL="../TextField/TextField.lvclass"/>
 		<Item Name="Cursor.lvclass" Type="LVClass" URL="../Cursor/Cursor.lvclass"/>
 		<Item Name="Snake.lvclass" Type="LVClass" URL="../Snake/Snake.lvclass"/>
+		<Item Name="BounceTarget.lvclass" Type="LVClass" URL="../BounceTarget/BounceTarget.lvclass"/>
 	</Item>
 	<Item Name="Games" Type="Folder">
 		<Item Name="Pong.lvclass" Type="LVClass" URL="../Pong/Pong.lvclass"/>
 		<Item Name="SnakeGame.lvclass" Type="LVClass" URL="../SnakeGame/SnakeGame.lvclass"/>
 		<Item Name="Tetris.lvclass" Type="LVClass" URL="../Tetris/Tetris.lvclass"/>
+		<Item Name="Bouncer.lvclass" Type="LVClass" URL="../Bouncer/Bouncer.lvclass"/>
 	</Item>
 	<Item Name="Menus" Type="Folder">
 		<Item Name="MainMenu.lvclass" Type="LVClass" URL="../MainMenu/MainMenu.lvclass"/>
