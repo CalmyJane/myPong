@@ -13,6 +13,7 @@
 		<Item Name="InitTileFromFile.vi" Type="VI" URL="../InitTileFromFile.vi"/>
 	</Item>
 	<Item Name="Sounds" Type="Folder">
+		<Item Name="CreateSound.vi" Type="VI" URL="../CreateSound.vi"/>
 		<Item Name="MusicLoader.vi" Type="VI" URL="../MusicLoader.vi"/>
 		<Item Name="SoundLoader.vi" Type="VI" URL="../SoundLoader.vi"/>
 	</Item>
