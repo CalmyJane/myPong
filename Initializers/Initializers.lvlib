@@ -18,7 +18,9 @@
 		<Item Name="SoundLoader.vi" Type="VI" URL="../SoundLoader.vi"/>
 	</Item>
 	<Item Name="Tools" Type="Folder">
+		<Item Name="GetTileNumberTool.vi" Type="VI" URL="../GetTileNumberTool.vi"/>
 		<Item Name="Picture to 2-D Color Array.vi" Type="VI" URL="../Picture to 2-D Color Array.vi"/>
 		<Item Name="PixmapToFXP.vi" Type="VI" URL="../../RT/RT_Game/PixmapToFXP.vi"/>
 	</Item>
+	<Item Name="BuildTileCode.vi" Type="VI" URL="../BuildTileCode.vi"/>
 </Library>
