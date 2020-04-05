@@ -12,5 +12,6 @@
 	<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
 	<Item Name="Example_squares.vi" Type="VI" URL="../Example_squares.vi"/>
 	<Item Name="GetColors.vi" Type="VI" URL="../GetColors.vi"/>
+	<Item Name="ShiftPicture.vi" Type="VI" URL="../ShiftPicture.vi"/>
 	<Item Name="VGA_Loop.vi" Type="VI" URL="../VGA_Loop.vi"/>
 </Library>
