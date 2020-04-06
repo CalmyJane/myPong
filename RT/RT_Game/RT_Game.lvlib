@@ -26,6 +26,7 @@
 		<Item Name="SnakeGame.lvclass" Type="LVClass" URL="../SnakeGame/SnakeGame.lvclass"/>
 		<Item Name="Tetris.lvclass" Type="LVClass" URL="../Tetris/Tetris.lvclass"/>
 		<Item Name="Bouncer.lvclass" Type="LVClass" URL="../Bouncer/Bouncer.lvclass"/>
+		<Item Name="AboutScreen.lvclass" Type="LVClass" URL="../AboutScreen/AboutScreen.lvclass"/>
 	</Item>
 	<Item Name="Menus" Type="Folder">
 		<Item Name="Menu.lvclass" Type="LVClass" URL="../Menu/Menu.lvclass"/>
