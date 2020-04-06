@@ -28,7 +28,6 @@
 		<Item Name="Bouncer.lvclass" Type="LVClass" URL="../Bouncer/Bouncer.lvclass"/>
 	</Item>
 	<Item Name="Menus" Type="Folder">
-		<Item Name="MainMenu.lvclass" Type="LVClass" URL="../MainMenu/MainMenu.lvclass"/>
 		<Item Name="Menu.lvclass" Type="LVClass" URL="../Menu/Menu.lvclass"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
