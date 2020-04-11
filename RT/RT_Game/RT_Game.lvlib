@@ -12,34 +12,31 @@
 		<Property Name="NI.SortType" Type="Int">3</Property>
 		<Item Name="GameObject.lvclass" Type="LVClass" URL="../GameObject/GameObject.lvclass"/>
 		<Item Name="RT_Sprite.lvclass" Type="LVClass" URL="../RT_Sprite/RT_Sprite.lvclass"/>
-		<Item Name="DisplayText.lvclass" Type="LVClass" URL="../DisplayText/DisplayText.lvclass"/>
 		<Item Name="PongBall.lvclass" Type="LVClass" URL="../PongBall/PongBall.lvclass"/>
 		<Item Name="PongPanel.lvclass" Type="LVClass" URL="../PongPanel/PongPanel.lvclass"/>
 		<Item Name="SnakeSwitch.lvclass" Type="LVClass" URL="../PongSwitch/SnakeSwitch.lvclass"/>
-		<Item Name="TextField.lvclass" Type="LVClass" URL="../TextField/TextField.lvclass"/>
 		<Item Name="Cursor.lvclass" Type="LVClass" URL="../Cursor/Cursor.lvclass"/>
 		<Item Name="Snake.lvclass" Type="LVClass" URL="../Snake/Snake.lvclass"/>
 		<Item Name="BounceTarget.lvclass" Type="LVClass" URL="../BounceTarget/BounceTarget.lvclass"/>
+		<Item Name="GameMenu.lvclass" Type="LVClass" URL="../GameMenu/GameMenu.lvclass"/>
+		<Item Name="JumpGuy.lvclass" Type="LVClass" URL="../JumpGuy/JumpGuy.lvclass"/>
 	</Item>
 	<Item Name="Games" Type="Folder">
+		<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 		<Item Name="Pong.lvclass" Type="LVClass" URL="../Pong/Pong.lvclass"/>
 		<Item Name="SnakeGame.lvclass" Type="LVClass" URL="../SnakeGame/SnakeGame.lvclass"/>
-		<Item Name="Tetris.lvclass" Type="LVClass" URL="../Tetris/Tetris.lvclass"/>
 		<Item Name="Bouncer.lvclass" Type="LVClass" URL="../Bouncer/Bouncer.lvclass"/>
 		<Item Name="AboutScreen.lvclass" Type="LVClass" URL="../AboutScreen/AboutScreen.lvclass"/>
-	</Item>
-	<Item Name="Menus" Type="Folder">
+		<Item Name="Jumper.lvclass" Type="LVClass" URL="../Jumper/Jumper.lvclass"/>
 		<Item Name="Menu.lvclass" Type="LVClass" URL="../Menu/Menu.lvclass"/>
 	</Item>
-	<Item Name="Utilities" Type="Folder">
-		<Item Name="Tilebuffer.lvclass" Type="LVClass" URL="../Buffer/Tilebuffer.lvclass"/>
+	<Item Name="Controls" Type="Folder">
+		<Item Name="Color.ctl" Type="VI" URL="../Color.ctl"/>
+		<Item Name="Direction.ctl" Type="VI" URL="../Direction.ctl"/>
+		<Item Name="Square.ctl" Type="VI" URL="../Square.ctl"/>
+		<Item Name="Velocity.ctl" Type="VI" URL="../PongBall/Velocity.ctl"/>
 	</Item>
-	<Item Name="Color.ctl" Type="VI" URL="../Color.ctl"/>
-	<Item Name="Direction.ctl" Type="VI" URL="../Direction.ctl"/>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
-	<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 	<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
-	<Item Name="Square.ctl" Type="VI" URL="../Square.ctl"/>
-	<Item Name="Velocity.ctl" Type="VI" URL="../PongBall/Velocity.ctl"/>
 	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 </Library>
