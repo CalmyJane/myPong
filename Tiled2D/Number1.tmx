@@ -3,11 +3,11 @@
  <tileset firstgid="1" source="myPONG.tsx"/>
  <layer id="1" name="Kachelebene 1" width="3" height="5">
   <data encoding="csv">
-207,207,569,
+207,207,573,
 207,207,634,
 207,207,634,
 207,207,634,
-207,207,568
+207,207,637
 </data>
  </layer>
 </map>

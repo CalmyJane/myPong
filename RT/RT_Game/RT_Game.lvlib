@@ -42,4 +42,5 @@
 	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 	<Item Name="Highscore.lvclass" Type="LVClass" URL="../Highscore/Highscore.lvclass"/>
 	<Item Name="HighscoreDialog.lvclass" Type="LVClass" URL="../HighscoreDialog/HighscoreDialog.lvclass"/>
+	<Item Name="TileTimer.lvclass" Type="LVClass" URL="../TileTime/TileTimer.lvclass"/>
 </Library>
