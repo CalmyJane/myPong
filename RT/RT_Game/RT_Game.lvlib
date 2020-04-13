@@ -29,6 +29,7 @@
 		<Item Name="AboutScreen.lvclass" Type="LVClass" URL="../AboutScreen/AboutScreen.lvclass"/>
 		<Item Name="Jumper.lvclass" Type="LVClass" URL="../Jumper/Jumper.lvclass"/>
 		<Item Name="Menu.lvclass" Type="LVClass" URL="../Menu/Menu.lvclass"/>
+		<Item Name="GPong.lvclass" Type="LVClass" URL="../GPong/GPong.lvclass"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Color.ctl" Type="VI" URL="../Color.ctl"/>
@@ -39,4 +40,6 @@
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
 	<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
 	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
+	<Item Name="Highscore.lvclass" Type="LVClass" URL="../Highscore/Highscore.lvclass"/>
+	<Item Name="HighscoreDialog.lvclass" Type="LVClass" URL="../HighscoreDialog/HighscoreDialog.lvclass"/>
 </Library>
