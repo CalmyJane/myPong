@@ -46,12 +46,12 @@
 		<Property Name="NI.ClassItem.State" Type="Int">1350574608</Property>
 	</Item>
 	<Item Name="Update.vi" Type="VI" URL="../Update.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%V!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$R!=!!?!!!D$6*58U&gt;B&lt;75O&lt;(:M;7)417*P&gt;8249X*F:7YO&lt;(:D&lt;'&amp;T=Q!017*P&gt;8249X*F:7YA&lt;X6U!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!0%"Q!"Y!!#-.5F2@2W&amp;N:3ZM&gt;GRJ9B."9G^V&gt;&amp;.D=G6F&lt;CZM&gt;G.M98.T!!Z"9G^V&gt;&amp;.D=G6F&lt;C"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!*)!!!!!!1!)!!!!!!</Property>
+		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'&lt;!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!?$6*58U&gt;B&lt;75O&lt;(:M;7)/27ZH;7ZF,GRW9WRB=X-!!!J&amp;&lt;G&gt;J&lt;G5A&lt;X6U!!!]1(!!(A!!)QV36&amp;^(97VF,GRW&lt;'FC%U&amp;C&lt;X6U5W.S:76O,GRW9WRB=X-!$U&amp;C&lt;X6U5W.S:76O)'^V&gt;!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$*!=!!?!!!?$6*58U&gt;B&lt;75O&lt;(:M;7)/27ZH;7ZF,GRW9WRB=X-!!!F&amp;&lt;G&gt;J&lt;G5A;7Y!0%"Q!"Y!!#-.5F2@2W&amp;N:3ZM&gt;GRJ9B."9G^V&gt;&amp;.D=G6F&lt;CZM&gt;G.M98.T!!Z"9G^V&gt;&amp;.D=G6F&lt;C"J&lt;A!!6!$Q!!Q!!Q!%!!5!"A!%!!1!"!!%!!=!"!!)!!E$!!"Y!!!.#!!!!!!!!!U+!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!#A!!!*)!!!!!!1!+!!!!!!</Property>
 		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 		<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1115685392</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 	</Item>
 </LVClass>
