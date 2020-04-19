@@ -14,7 +14,6 @@
 		<Item Name="SnakeGame.lvclass" Type="LVClass" URL="../SnakeGame/SnakeGame.lvclass"/>
 		<Item Name="Bouncer.lvclass" Type="LVClass" URL="../Bouncer/Bouncer.lvclass"/>
 		<Item Name="AboutScreen.lvclass" Type="LVClass" URL="../AboutScreen/AboutScreen.lvclass"/>
-		<Item Name="Jumper.lvclass" Type="LVClass" URL="../Jumper/Jumper.lvclass"/>
 		<Item Name="Menu.lvclass" Type="LVClass" URL="../Menu/Menu.lvclass"/>
 		<Item Name="GPong.lvclass" Type="LVClass" URL="../GPong/GPong.lvclass"/>
 	</Item>
@@ -30,13 +29,12 @@
 			<Item Name="Snake.lvclass" Type="LVClass" URL="../Snake/Snake.lvclass"/>
 			<Item Name="BounceTarget.lvclass" Type="LVClass" URL="../BounceTarget/BounceTarget.lvclass"/>
 			<Item Name="GameMenu.lvclass" Type="LVClass" URL="../GameMenu/GameMenu.lvclass"/>
-			<Item Name="JumpGuy.lvclass" Type="LVClass" URL="../JumpGuy/JumpGuy.lvclass"/>
 		</Item>
 		<Item Name="Highscore.lvclass" Type="LVClass" URL="../Highscore/Highscore.lvclass"/>
 		<Item Name="HighscoreDialog.lvclass" Type="LVClass" URL="../HighscoreDialog/HighscoreDialog.lvclass"/>
 		<Item Name="TileTimer.lvclass" Type="LVClass" URL="../TileTime/TileTimer.lvclass"/>
 		<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
-		<Item Name="Cheats.lvclass" Type="LVClass" URL="../Cheats/Cheats.lvclass"/>
+		<Item Name="Cheat.lvclass" Type="LVClass" URL="../Cheats/Cheat.lvclass"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Color.ctl" Type="VI" URL="../Color.ctl"/>
