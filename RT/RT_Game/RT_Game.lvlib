@@ -25,7 +25,7 @@
 			<Item Name="RT_Sprite.lvclass" Type="LVClass" URL="../RT_Sprite/RT_Sprite.lvclass"/>
 			<Item Name="PongBall.lvclass" Type="LVClass" URL="../PongBall/PongBall.lvclass"/>
 			<Item Name="PongPanel.lvclass" Type="LVClass" URL="../PongPanel/PongPanel.lvclass"/>
-			<Item Name="SnakeSwitch.lvclass" Type="LVClass" URL="../PongSwitch/SnakeSwitch.lvclass"/>
+			<Item Name="SnakeSwitch.lvclass" Type="LVClass" URL="../SnakeSwitch/SnakeSwitch.lvclass"/>
 			<Item Name="Cursor.lvclass" Type="LVClass" URL="../Cursor/Cursor.lvclass"/>
 			<Item Name="Snake.lvclass" Type="LVClass" URL="../Snake/Snake.lvclass"/>
 			<Item Name="BounceTarget.lvclass" Type="LVClass" URL="../BounceTarget/BounceTarget.lvclass"/>
@@ -35,7 +35,6 @@
 		<Item Name="Highscore.lvclass" Type="LVClass" URL="../Highscore/Highscore.lvclass"/>
 		<Item Name="HighscoreDialog.lvclass" Type="LVClass" URL="../HighscoreDialog/HighscoreDialog.lvclass"/>
 		<Item Name="TileTimer.lvclass" Type="LVClass" URL="../TileTime/TileTimer.lvclass"/>
-		<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
 		<Item Name="Cheat.lvclass" Type="LVClass" URL="../Cheats/Cheat.lvclass"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
@@ -46,5 +45,4 @@
 		<Item Name="ControlValue.ctl" Type="VI" URL="../ControlValue.ctl"/>
 	</Item>
 	<Item Name="Engine.lvclass" Type="LVClass" URL="../Engine/Engine.lvclass"/>
-	<Item Name="main.vi" Type="VI" URL="../main.vi"/>
 </Library>
