@@ -152,6 +152,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Mode" Type="Int">0</Property>
 				<Property Name="NI.LV.FPGA.CompileConfigString" Type="Str">myRIO-1900/Clk40/falsefalseFPGA_EXECUTION_MODEFPGA_TARGETFPGA_TARGET_CLASSMYRIO_1900FPGA_TARGET_FAMILYZYNQTARGET_TYPEFPGA</Property>
 				<Property Name="NI.LV.FPGA.Version" Type="Int">6</Property>
+				<Property Name="niFpga_TopLevelVIID" Type="Path">/C/Users/FreshBob/Dropbox/VIs/myRIO_GameConsole/FPGA/VGA/Example_squares.vi</Property>
 				<Property Name="Resource Name" Type="Str">RIO0</Property>
 				<Property Name="Target Class" Type="Str">myRIO-1900</Property>
 				<Property Name="Top-Level Timing Source" Type="Str">40 MHz Onboard Clock</Property>
@@ -1919,7 +1920,6 @@ AddOutputFilter chunkFilter
 					<Item Name="Dependencies" Type="Dependencies"/>
 					<Item Name="Build Specifications" Type="Build"/>
 				</Item>
-				<Item Name="GameCubeController.lvlib" Type="Library" URL="../FPGA/GameCubeController/GameCubeController.lvlib"/>
 				<Item Name="Dependencies" Type="Dependencies">
 					<Item Name="vi.lib" Type="Folder">
 						<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
@@ -2453,7 +2453,7 @@ AddOutputFilter chunkFilter
 						<Property Name="SupportDownload" Type="Bool">true</Property>
 						<Property Name="SupportResourceEstimation" Type="Bool">false</Property>
 						<Property Name="TargetName" Type="Str">FPGA Target</Property>
-						<Property Name="TopLevelVI" Type="Ref">/RT myRIO Target/Chassis/FPGA Target/GameCubeController.lvlib/Example.vi</Property>
+						<Property Name="TopLevelVI" Type="Ref"></Property>
 					</Item>
 				</Item>
 			</Item>
@@ -2533,7 +2533,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{3F439FE7-A6F7-4AAB-8F5D-D7F83FC1F406}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">52</Property>
+				<Property Name="Bld_version.build" Type="Int">54</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>

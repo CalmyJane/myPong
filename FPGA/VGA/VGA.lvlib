@@ -10,6 +10,7 @@
 	<Item Name="CalculateSyncPulse.vi" Type="VI" URL="../CalculateSyncPulse.vi"/>
 	<Item Name="data.ctl" Type="VI" URL="../data.ctl"/>
 	<Item Name="Example.vi" Type="VI" URL="../Example.vi"/>
+	<Item Name="Example_SingleSquare.vi" Type="VI" URL="../Example_SingleSquare.vi"/>
 	<Item Name="Example_squares.vi" Type="VI" URL="../Example_squares.vi"/>
 	<Item Name="GetColors.vi" Type="VI" URL="../GetColors.vi"/>
 	<Item Name="ShiftPicture.vi" Type="VI" URL="../ShiftPicture.vi"/>

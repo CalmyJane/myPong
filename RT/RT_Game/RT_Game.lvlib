@@ -9,6 +9,11 @@
 
 </Property>
 	<Item Name="Games" Type="Folder">
+		<Item Name="Attract" Type="Folder">
+			<Item Name="AttractScreen.lvclass" Type="LVClass" URL="../AttractScreen/AttractScreen.lvclass"/>
+			<Item Name="SnakeDemo.lvclass" Type="LVClass" URL="../SnakeDemo/SnakeDemo.lvclass"/>
+			<Item Name="PongDemo.lvclass" Type="LVClass" URL="../PongDemo/PongDemo.lvclass"/>
+		</Item>
 		<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 		<Item Name="Pong.lvclass" Type="LVClass" URL="../Pong/Pong.lvclass"/>
 		<Item Name="SnakeGame.lvclass" Type="LVClass" URL="../SnakeGame/SnakeGame.lvclass"/>
@@ -16,7 +21,7 @@
 		<Item Name="AboutScreen.lvclass" Type="LVClass" URL="../AboutScreen/AboutScreen.lvclass"/>
 		<Item Name="Menu.lvclass" Type="LVClass" URL="../Menu/Menu.lvclass"/>
 		<Item Name="GPong.lvclass" Type="LVClass" URL="../GPong/GPong.lvclass"/>
-		<Item Name="SnakeDemo.lvclass" Type="LVClass" URL="../SnakeDemo/SnakeDemo.lvclass"/>
+		<Item Name="DemoGame.lvclass" Type="LVClass" URL="../DemoGame/DemoGame.lvclass"/>
 	</Item>
 	<Item Name="Components" Type="Folder">
 		<Item Name="GameObjects" Type="Folder">
@@ -36,6 +41,7 @@
 		<Item Name="HighscoreDialog.lvclass" Type="LVClass" URL="../HighscoreDialog/HighscoreDialog.lvclass"/>
 		<Item Name="TileTimer.lvclass" Type="LVClass" URL="../TileTime/TileTimer.lvclass"/>
 		<Item Name="Cheat.lvclass" Type="LVClass" URL="../Cheats/Cheat.lvclass"/>
+		<Item Name="FadeOutTiles.lvclass" Type="LVClass" URL="../FadeOutTiles/FadeOutTiles.lvclass"/>
 	</Item>
 	<Item Name="Controls" Type="Folder">
 		<Item Name="Color.ctl" Type="VI" URL="../Color.ctl"/>
