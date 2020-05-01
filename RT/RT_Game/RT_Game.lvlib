@@ -13,6 +13,7 @@
 			<Item Name="AttractScreen.lvclass" Type="LVClass" URL="../AttractScreen/AttractScreen.lvclass"/>
 			<Item Name="SnakeDemo.lvclass" Type="LVClass" URL="../SnakeDemo/SnakeDemo.lvclass"/>
 			<Item Name="PongDemo.lvclass" Type="LVClass" URL="../PongDemo/PongDemo.lvclass"/>
+			<Item Name="BounceDemo.lvclass" Type="LVClass" URL="../BounceDemo/BounceDemo.lvclass"/>
 		</Item>
 		<Item Name="Game.lvclass" Type="LVClass" URL="../Game/Game.lvclass"/>
 		<Item Name="Pong.lvclass" Type="LVClass" URL="../Pong/Pong.lvclass"/>
@@ -36,6 +37,7 @@
 			<Item Name="BounceTarget.lvclass" Type="LVClass" URL="../BounceTarget/BounceTarget.lvclass"/>
 			<Item Name="GameMenu.lvclass" Type="LVClass" URL="../GameMenu/GameMenu.lvclass"/>
 			<Item Name="AI_Snake.lvclass" Type="LVClass" URL="../AI_Snake/AI_Snake.lvclass"/>
+			<Item Name="BouncePanel.lvclass" Type="LVClass" URL="../BouncePanel/BouncePanel.lvclass"/>
 		</Item>
 		<Item Name="Highscore.lvclass" Type="LVClass" URL="../Highscore/Highscore.lvclass"/>
 		<Item Name="HighscoreDialog.lvclass" Type="LVClass" URL="../HighscoreDialog/HighscoreDialog.lvclass"/>
